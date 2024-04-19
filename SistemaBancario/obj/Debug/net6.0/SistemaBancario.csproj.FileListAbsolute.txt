@@ -1,0 +1,15 @@
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\bin\Debug\net6.0\SistemaBancario.exe
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\bin\Debug\net6.0\SistemaBancario.deps.json
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\bin\Debug\net6.0\SistemaBancario.runtimeconfig.json
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\bin\Debug\net6.0\SistemaBancario.dll
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\bin\Debug\net6.0\SistemaBancario.pdb
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\SistemaBancario.csproj.AssemblyReference.cache
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\SistemaBancario.AssemblyInfo.cs
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\SistemaBancario.csproj.CoreCompileInputs.cache
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\SistemaBancario.dll
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\refint\SistemaBancario.dll
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\SistemaBancario.pdb
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\SistemaBancario.genruntimeconfig.cache
+C:\Users\Elder\OneDrive\Documentos\cursoUdemy\projetosVisualStudio\primeiroProjeto\SistemaBancario\SistemaBancario\obj\Debug\net6.0\ref\SistemaBancario.dll
